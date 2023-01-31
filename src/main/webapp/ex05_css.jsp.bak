@@ -47,7 +47,6 @@
 		<ul>
 			<li id="jsp"> JSP </li>
 			<ul>
-				<%-- 수정 --%>
 				<li class = "bg"> EL </li>
 				<li class = "bg"> JSTL </li>
 			</ul>
